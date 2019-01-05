@@ -1,4 +1,4 @@
-# Class-Extraction-from-COCO
+# Category-Extraction-from-COCO
 
   COCO dataset 2014 is a collection of 123k image of 91 categories. The code I provided can be used for the extraction of a specific class from the whole dataset. The dataset provides its annotations in a **.json file**. Annotation structure of COCO 2014 can be found [here](https://github.com/alwynmathew/COCO-annotation-structure).
 
